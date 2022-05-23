@@ -55,7 +55,7 @@ Configuration file: coheteria-tecspace.github.io/_config.yml
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 ```
-5. De tener un mensaje como el anterior, simplemente se debe ir a la dirección web http://127.0.0.1:4000/,o bien http://localhost:4000, todo cambio realizado en el código debe poder verse en tiempo real en la página web local con tan solo refrescar la página.
+5. De tener un mensaje como el anterior, simplemente se debe ir a la dirección web http://127.0.0.1:4000/ o bien http://localhost:4000, todo cambio realizado en el código debe poder verse en tiempo real en la página web local con tan solo refrescar la página.
 
 ## Licencia
 Se mantiene la licencia [MIT][mit] usada por [Chirpy][chirpy].

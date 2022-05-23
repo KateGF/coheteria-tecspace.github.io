@@ -1,5 +1,8 @@
-# 
+# Reglas custom para manejo de lenguajes en el repositorio
+*.scss linguist-detectable=false
+_sass/layout*.scss linguist-detectable=true
 _posts/*.md linguist-detectable=true
+_tabs/*.md linguist-detectable=true
 _tabs/*.md linguist-detectable=true
 
 # Set default behavior to automatically normalize line endings.

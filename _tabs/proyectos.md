@@ -13,13 +13,14 @@ Los proyectos de esta sección se enfocan en cohetes y cualqueir tema de interé
 
 <details>
     <summary>Cohete Miravalles</summary>
+    Aún no se ha escrito esta información.
     <a href="https://gogetfunding.com/help-tecspace-make-miravalles-i-mission-a-reality/">Hagamos del Miravalles I una REALIDAD</a>
 </details>
 
 <details>
     <summary>Librería de Diseño TSEL</summary>
     Librería (library para programación) enfocada en facilitar el proceso de cálculos para diseñar motores de propelente sólido para cohetes, permitiendo así variaciones a parámetros que se ven reflejados en los resultados de rendimiento teórico para el motor, se puede encontrar el código fuente en <a href="https://github.com/Coheteria-TECSpace/TSEL">GitHub</a>.
-    </ul>
+    <ul></ul>
     <ul><b>Habilidades Utilizadas:</b>
         <li>Programación en el lenguaje C (ANSI C99)</li>
         <li>Compilación de proyectos mediante CMake</li>
@@ -33,7 +34,8 @@ Los proyectos de esta sección se enfocan en cohetes y cualqueir tema de interé
 <details>
     <summary>Página Web TECSpace</summary>
     Página simple que permite mostrar información general sobre el grupo, e información sobre proyectos tanto de cohetería como de sistemas espaciales, se puede encontrar el código fuente en <a href="https://github.com/Coheteria-TECSpace/coheteria-tecspace.github.io">GitHub</a>.
-    <img src="../images/paginaweb.png" alt="pagina_web" style="width:30rem;"/>
+    <ul></ul>
+    <div align="center"><img src="../images/paginaweb.png" alt="pagina_web" style="width:30rem;" align="middle"/></div>
     <ul><b>Habilidades Utilizadas:</b>
         <li>Programación en lenguaje Markdown</li>
         <li>Programación en lenguaje HTML</li>
@@ -64,7 +66,7 @@ Los proyectos de esta sección se enfocan en cohetes y cualqueir tema de interé
      <li>Diseño electrónico</li>
      <li>Resistencia de materiales</li>
      <li>Resistencia de materiales</li>
-     <li> Mejora continua</li>
+     <li>Mejora continua</li>
     </ul>
     <br>
     <div align="center"><img src="../images/plataformacerr.png" alt="Pagina Inicio" style="width:30rem;" align="middle"/></div>
@@ -76,8 +78,13 @@ Los proyectos de esta sección se enfocan en cohetes y cualqueir tema de interé
     <summary>Cohete Multietapa</summary>
     La intención es construir un cohete multietapa de alcance medio, con una primera etapa subsónica y una segunda etapa transónica. Esto contempla varios desafíos de diseño mecánico, al igual que aerodinámico. La base de este proyecto es el cohete Miravalles-I.<br>
     <br>
-    <div align="center"><img src="../images/cohetemulti.png" alt="Pagina Inicio" style="width:30rem;"/></div>
+    <div align="center"><img src="../images/cohetemulti.png" alt="Pagina Inicio" style="width:30rem;" align="middle"/></div>
     <br>
+</details>
+
+<details>
+    <summary>Simulación CFD</summary>
+    Aún no se ha escrito esta información.
 </details>
 
 ## Sistemas Espaciales
