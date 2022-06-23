@@ -76,16 +76,31 @@ Los proyectos de esta sección se enfocan en cohetes y cualqueir tema de interé
 
 <details>
     <summary>Cohete Multietapa</summary>
-    La intención es construir un cohete multietapa de alcance medio, con una primera etapa subsónica y una segunda etapa transónica. Esto contempla varios desafíos de diseño mecánico, al igual que aerodinámico. La base de este proyecto es el cohete Miravalles-I.<br>
+    <ul><b>Descripción del proyecto:</b>
+    <br>
+     <li>La intención es construir un cohete multietapa de alcance medio, con una primera etapa subsónica y una segunda etapa transónica. Esto contempla varios desafíos de diseño mecánico, al igual que aerodinámico. La base de este proyecto es el cohete Miravalles-I.</li>
+    </ul>
     <br>
     <div align="center"><img src="../images/cohetemulti.png" alt="Pagina Inicio" style="width:30rem;" align="middle"/></div>
     <br>
 </details>
 
 <details>
-    <summary>Simulación CFD</summary>
-    Aún no se ha escrito esta información.
+    <summary>Capacitación CFD</summary>
+    <ul><b>Objetivo del proyecto:</b>
+    <br>
+     <li>Capacitación continua de personal en tareas de simulación CFD (Computational Fluid Dynamics; Mecánica de Fluidos Computacional. Se trata de un proyecto dedicado a estudios previos requeridos para la ejecución de proyectos espaciales de TECSpace.</li>
+    </ul>
+    <ul><b>Habilidades Desarrolladas:</b>
+    <br>
+     <li>Modelado en software 3D; Solidworks, Fusión 360.</li>
+     <li>Manejo de software de simulación; Ansys, Comsol </li>
+     <li>Análisis y estudio de resultados obtenidos en simulaciones</li>
+    </ul>
+    <div align="center"><img src="../images/CFD.png" alt="Pagina Inicio" style="width:30rem;" align="middle"/></div>
+    <br>
 </details>
+
 
 ## Sistemas Espaciales
 Sección enfocada a sistemas de interés general para exploración espacial.
