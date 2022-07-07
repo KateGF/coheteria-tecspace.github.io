@@ -24,7 +24,6 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
         <li>Vuelo desde una lanzadera.</li>
         <li>Uso de un banco de pruebas estáticas.</li>
         <li>Diseño del fuselaje.</li>
-        <li>.</li>
     </ul>
     <br>
     <ul><b>Algunas Imágenes del Proyecto:</b>
@@ -146,17 +145,43 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
 
 ## Sistemas Espaciales
 <div style="text-align: justify">Sección enfocada a sistemas de interés general para exploración espacial, desarollo de proyectos que no necesariamente van relacionados con los cohetes.</div>
- <br>
+<br>
 <details>
     <summary>Rover</summary>
     <br>
     <ul><b>Información General del Proyecto:</b>
-    <div style="text-align: justify"> 
-     <li>El proyecto Rover surgió debido al interés por desarrollar conocimientos sobre la robótica de exploración espacial. Se propone llevar a cabo una misión haciendo uso de la geología e ingeniería, la cual permita comprender el funcionamiento de sistemas electromecánicos, los cuales conforman un Rover, ante un ambiente hostil como el presente en los volcanes, para así eventualmente extrapolar el conocimiento adquirido en el diseño de una misión interplanetaria para explorar otros cuerpos celestes. La misión consiste en recolectar muestras de basalto-andesita y ceniza del cráter de un volcán cuando sea necesario independientemente de la actividad del mismo, además de monitorear la temperatura, niveles de CO2 y ácido sulfúrico para posteriormente transmitir los datos y facilitar las muestras de roca para que sean analizados por especialistas. Este proyecto plantea cumplir con el objetivo de reducir riesgos a las personas que tomarían las muestras, permitir tener datos más accesibles y durante momentos de mucha actividad volcánica, además de simular ciertas dificultades que podría tener el Rover en otro planeta. Para llevar a cabo el proyecto se dividió el trabajo en tres grandes grupos los cuales son: Sensores y Datos, Transporte de muestras y Recolección de Muestras. El primero se encarga de la implementación y el manejo de datos de los sensores, así como del control del Rover; el segundo es el grupo responsable de la estructura, protección y movilidad adecuada ante ambientes hostiles; y finalmente el tercer grupo es donde se diseñan las herramientas necesarias para la obtención y recolección de dichas muestras. El proyecto se encuentra en la fase del diseño preliminar del sistema, para eventualmente integrarlos y así obtener el primer prototipo del Rover. Este primer prototipo brindará una versión del Rover con características básicas definidas, que permitirá verificar y validar el diseño así como sus futuras mejoras.</li></div>
+     <li>El proyecto Rover surgió debido al interés por desarrollar conocimientos sobre la robótica de exploración espacial. Se propone llevar a cabo una misión haciendo uso de la geología e ingeniería, la cual permita comprender el funcionamiento de sistemas electromecánicos, los cuales conforman un Rover, ante un ambiente hostil como el presente en los volcanes, para así eventualmente extrapolar el conocimiento adquirido en el diseño de una misión interplanetaria para explorar otros cuerpos celestes.</li>
     </ul>
+
+    <ul><b>En qué consiste:</b>
+    <br>
+     <li>La misión consiste en recolectar muestras de basalto-andesita y ceniza del cráter de un volcán cuando sea necesario independientemente de la actividad del mismo, además de monitorear la temperatura, niveles de CO2 y ácido sulfúrico para posteriormente transmitir los datos y facilitar las muestras de roca para que sean analizados por especialistas.</li>
+    </ul>
+
+    <ul><b>Objetivos:</b>
+    <br>
+     <li>Este proyecto plantea cumplir con el objetivo de reducir riesgos a las personas que tomarían las muestras, permitir tener datos más accesibles y durante momentos de mucha actividad volcánica, además de simular ciertas dificultades que podría tener el Rover en otro planeta.</li>
+    </ul>
+
+    <ul><b>División de tareas:</b>
+    <br>
+     <li>Para llevar a cabo el proyecto se dividió el trabajo en tres grandes grupos los cuales son: Sensores y Datos, Transporte de muestras y Recolección de Muestras. El primero se encarga de la implementación y el manejo de datos de los sensores, así como del control del Rover; el segundo es el grupo responsable de la estructura, protección y movilidad adecuada ante ambientes hostiles; y finalmente el tercer grupo es donde se diseñan las herramientas necesarias para la obtención y recolección de dichas muestras.</li>
+    </ul>
+
+    <ul><b>Progreso actual:</b>
+    <br>
+     <li>El proyecto se encuentra en la fase del diseño preliminar del sistema, para eventualmente integrarlos y así obtener el primer prototipo del Rover. Este primer prototipo brindará una versión del Rover con características básicas definidas, que permitirá verificar y validar el diseño así como sus futuras mejoras.</li>
+    </ul>
+
     <br>
     <ul><b>Algunas Imágenes del Proyecto:</b>
     </ul>
+    <div align="center"><img src="../images/Rover.jpg" alt="imagen_rover" style="width:30rem;" align="middle"/></div>
+    <br>
+    <div align="center"><img src="../images/Rover1.jpg" alt="imagen_rover" style="width:30rem;" align="middle"/></div>
+    <br>
+    <div align="center"><img src="../images/Rover2.jpg" alt="imagen_rover" style="width:30rem;" align="middle"/></div>
+    <br>
 </details>
 
 <details>
