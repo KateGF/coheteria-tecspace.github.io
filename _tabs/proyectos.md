@@ -24,7 +24,6 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
         <li>Vuelo desde una lanzadera.</li>
         <li>Uso de un banco de pruebas estáticas.</li>
         <li>Diseño del fuselaje.</li>
-        <li>.</li>
     </ul>
     <br>
     <ul><b>Algunas Imágenes del Proyecto:</b>
@@ -36,10 +35,11 @@ Estos se encuentran divididos de acuerdo a la sección a la cual pertenecen.
     <div align="center"><img src="../images/Payload.png" alt="pagina_web" style="width:30rem;" align="middle"/></div>
     <br>
     <a href="https://gogetfunding.com/help-tecspace-make-miravalles-i-mission-a-reality/">Hagamos del Miravalles I una REALIDAD:</a>
+    <br>
 </details>
 
 <details>
-    <summary>Librería de Diseño TSEL</summary>
+    <summary>Librería de Diseño TREL</summary>
     <br>
     <ul><b>Información General del Proyecto:</b>
     <div style="text-align: justify">
